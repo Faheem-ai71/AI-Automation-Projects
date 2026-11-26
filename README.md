@@ -10,3 +10,6 @@ Then AI writes a professional summary.
 1. Put your sales Excel file
 2. Run the Python code
 3. Get a beautiful AI report
+## Screenshot of the Report
+
+![AI Sales Report](report-screenshot.png)
