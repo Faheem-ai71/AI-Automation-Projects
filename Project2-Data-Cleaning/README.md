@@ -9,3 +9,6 @@ Then AI gives score to every lead (Hot, Warm or Cold).
 2. Run the code
 3. Get clean and scored leads
    
+## Screenshot of the Report
+
+![scored leads](report-screenshot(2).png)
