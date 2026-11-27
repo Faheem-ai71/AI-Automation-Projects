@@ -11,4 +11,4 @@ Then AI gives score to every lead (Hot, Warm or Cold).
    
 ## Screenshot of the Report
 
-![Data Cleaning](report-screenshot.png)
+![scored leads](report-screenshot.png)
